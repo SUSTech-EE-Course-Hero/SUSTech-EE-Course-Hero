@@ -246,7 +246,10 @@ _This page is not available in [English](README.en.md) yet._
 > * [2020Spring Lab](https://github.com/sparkcyf/SUSTech_EE208_Engineering_Electromagnetics_Lab) @sparkcyf
 > * [2022Spring](https://github.com/Gralerfics/SUSTech-EE208-Engineering-Electromagnetic-Theory-Laboratory) @Gralerfics
 > * [2024Spring](https://github.com/Wendy-Ying/Engineering-Electromagnetics-Lab) @Wendy-Ying
+> * [2024Fall](https://github.com/Lgx521/EE208_Engineering_Electromagnetics.git) @Lgx521
 
+### Assignments
+> * [2024Fall](https://github.com/Lgx521/EE208_Engineering_Electromagnetics.git) @Lgx521
 
 
 ## :camera: SME306 先进数字-CMOS-集成电路设计 Advanced-Digital-CMOS-IC-Design
