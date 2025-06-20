@@ -37,7 +37,7 @@ _This page is not available in [English](README.en.md) yet._
   - [百度网盘备份](#百度网盘备份)
   - [夸克网盘备份](#夸克网盘备份)
 - [:wheelchair: 课程索引](#wheelchair-课程索引)
-  - [:mag_right: EE 电子系介绍](#mag-right-EE-电子系介绍)
+  - [:mag_right: EE 电子系介绍](#mag-right-ee-电子系介绍)
   - [:loop: EE104 电路基础 Fundamentals-of-Electric-Circuits](#loop-ee104-电路基础-fundamentals-of-electric-circuits)
   - [:currency\_exchange: EE205 信号与系统 Signal-and-System](#currency_exchange-ee205-信号与系统-signal-and-system)
   - [:flushed: EE201-17 模拟电路 analog-circuits](#flushed-ee201-17-模拟电路-analog-circuits)
@@ -57,13 +57,13 @@ _This page is not available in [English](README.en.md) yet._
   - [:bar\_chart: EE340 数据科学中的统计学习 Statistical-Learning-for-Data-Science](#bar_chart-ee340-数据科学中的统计学习-statistical-learning-for-data-science)
   - [:computer: EE341 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit\_Design-Microprocessor](#computer-ee341-集成电路前沿-微处理器设计-advanced-integrated-circuit_design-microprocessor)
   - [:traffic\_light: EE346 移动机器人导航与控制 Mobile Robot Navigation and Control](#traffic_light-ee346-移动机器人导航与控制-mobile-robot-navigation-and-control)
-  - [:computer: EE351 微机原理与微系统 Microprocessors and Microsystems](#computer-ee351-微机原理与微系统-Microprocessors-and-Microsystems)
+  - [:computer: EE351 微机原理与微系统 Microprocessors and Microsystems](#computer-ee351-微机原理与微系统-microprocessors-and-microsystems)
   - [:robot: EE368 机器人运动与控制方法 Robotics:Motion-and-Control](#robot-ee368-机器人运动与控制方法-roboticsmotion-and-control)
   - [:information\_source: EE411 信息论与编码 Information-Theory-and-Coding](#information_source-ee411-信息论与编码-information-theory-and-coding)
   - [:wave: EE490 毕业设计 Graduation Design](#wave-ee490-毕业设计-graduation-design)
   - [:bulb: EES103 电子创意设计I Creative-Electronic-Design-I](#bulb-ees103-电子创意设计i-creative-electronic-design-i)
   - [:heart\_eyes: SDM242 模拟电路系统设计 Analog-Circuit-System-Design](#heart_eyes-sdm242-模拟电路系统设计-analog-circuit-system-design)
-  - [:brain: SDM274 人工智能与机器学习 AI-and-Machine-Learning](#brain-SDM274-人工智能与机器学习-AI-and-Machine-Learning)
+  - [:brain: SDM274 人工智能与机器学习 AI-and-Machine-Learning](#brain-sdm274-人工智能与机器学习-ai-and-machine-learning)
   - [:books: SDM371 大数据 Big-Data](#books-sdm371-大数据-big-data)
 - [:mortar\_board: 说明](#mortar_board-说明)
 - [:telephone\_receiver: 保持联系](#telephone_receiver-保持联系)
@@ -346,10 +346,12 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 ### LAB
 > * [2023 Spring](https://github.com/Gralerfics/SUSTech-EE332-Digital-System-Designing-Laboratory) @Gralerfics
 > * [2020 Spring](https://github.com/Yuzhe-Fu/EE332) @Yuzhe-Fu
+> * [2025 Spring](https://github.com/Wendy-Ying/Digital-System-Design-Lab) @Wendy-Ying
 
 ### Project
 > * [Pipelined Minecraft-like 3D Game Rendering](https://github.com/Gralerfics/FmcPGA) @Gralerfics
 > * [FIR Filter Using VHDL](https://github.com/rd-pong/EE332-FIR-Filter-Using-VHDL) @rd-pong
+> * [2025 Spring](https://github.com/Wendy-Ying/Smart-Combination-Lock) @Wendy-Ying
 
 ### Martieral 
 > * [Related materials](https://github.com/Stupid-WOLF/EE332_SUSTech) @Stupid-WOLF
@@ -390,6 +392,8 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 ### Project
 > * [2023Spring Project](https://github.com/Gralerfics/SUSTech-EE368-Robotic-Motion-and-Control-Project) @Gralerfics
 > * [2024 Assignment, Note, Lab](https://github.com/RUSRUSHB/SUSTech-EE368-Robotics-Motion-and-Control) @RUSRUSHB
+> * [2025 Spring Assignment](https://github.com/Wendy-Ying/Robotic-Motion-and-Control) @Wendy-Ying
+> * [2025 Spring Project](https://github.com/Wendy-Ying/rrt_planner) @Wendy-Ying
 
 ## :information_source: EE411 信息论与编码 Information-Theory-and-Coding
 
