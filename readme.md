@@ -425,10 +425,12 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 
 ## lab
 > * [2024Fall](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab) @Wendy-Ying
+> * [2024Fall](https://github.com/ziyuanLi-alex/sdm274) @ziyuanLi-alex
 
 ## Project
 > * [2024Fall期中](https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction) @Wendy-Ying
 > * [2024Fall期末](https://github.com/Wendy-Ying/Wheat-Seed-Classification-Prediction) @Wendy-Ying
+> * [2024Fall期中与期末](https://github.com/ziyuanLi-alex/sdm274) @ziyuanLi-alex
 
 ## :books: SDM371 大数据 Big-Data
 
