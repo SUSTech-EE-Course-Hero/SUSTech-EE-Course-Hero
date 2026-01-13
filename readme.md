@@ -40,25 +40,26 @@ _This page is not available in [English](README.en.md) yet._
   - [:mag_right: EE 电子系介绍](#mag-right-ee-电子系介绍)
   - [:loop: EE104 电路基础 Fundamentals-of-Electric-Circuits](#loop-ee104-电路基础-fundamentals-of-electric-circuits)
   - [:currency\_exchange: EE205 信号与系统 Signal-and-System](#currency_exchange-ee205-信号与系统-signal-and-system)
-  - [:flushed: EE201-17 模拟电路 analog-circuits](#flushed-ee201-17-模拟电路-analog-circuits)
-  - [:flushed: EE201-17L 模拟电路实验 analog-circuits-laboratory](#flushed-ee201-17l-模拟电路实验-analog-circuits-laboratory)
+  - [:flushed: EE201-17 模拟电路 Analog-Circuits](#flushed-ee201-17-模拟电路-analog-circuits)
+  - [:flushed: EE201-17L 模拟电路实验 Analog-Circuits-Laboratory](#flushed-ee201-17l-模拟电路实验-analog-circuits-laboratory)
   - [:keycap\_ten: EE202-17 数字电路 Digital-Circuits](#keycap_ten-ee202-17-数字电路-digital-circuits)
   - [:keycap\_ten: EE202-17L 数字电路实验 Digital-Circuits-Laboratory](#keycap_ten-ee202-17l-数字电路实验-digital-circuits-laboratory)
   - [:radio: EE206 通信原理 Communication-Principle](#radio-ee206-通信原理-communication-principle)
   - [:electric\_plug: EE208 工程电磁场理论 Engineering Electromagnetics](#electric_plug-ee208-工程电磁场理论-engineering-electromagnetics)
+  - [:robot: EE211 机器人感知与智能 Robotic-Perception-and-Intelligence](#robot-ee211-机器人感知与智能-robotic-perception-and-intelligence)
   - [:camera: SME306 先进数字-CMOS-集成电路设计 Advanced-Digital-CMOS-IC-Design](#camera-sme306-先进数字-cmos-集成电路设计-advanced-digital-cmos-ic-design)
   - [:satellite: EE307 天线与电波传播 Antennas-and-Propagation](#satellite-ee307-天线与电波传播-antennas-and-propagation)
   - [:signal\_strength: EE312 前沿通信系统设计 Design-of-Modern-Communication-Systems](#signal_strength-ee312-前沿通信系统设计-design-of-modern-communication-systems)
-  - [:email: EE315 数据通信和网络 Data Communications and Computer Networks](#email-ee315-数据通信和网络-data-communications-and-computer-networks)
-  - [:musical\_score: EE317 电子科学创新实验I](#musical_score-ee317-电子科学创新实验i)
+  - [:email: EE315 数据通信和网络 Data-Communications-and-Computer-Networks](#email-ee315-数据通信和网络-data-communications-and-computer-networks)
+  - [:musical\_score: EE317 电子科学创新实验I Advanced-Electronic-Science-Experiment](#musical_score-ee317-电子科学创新实验i-advanced-electronic-science-experiment)
   - [:yum: EE323 数字信号处理 Digital-Signal-Processing](#yum-ee323-数字信号处理-digital-signal-processing)
   - [:art: EE326 数字图像处理 Digital-Image-Processing](#art-ee326-数字图像处理-digital-image-processing)
   - [:memo: EE332 数字系统设计 Digital-System-Design](#memo-ee332-数字系统设计-digital-system-design)
   - [:bar\_chart: EE340 数据科学中的统计学习 Statistical-Learning-for-Data-Science](#bar_chart-ee340-数据科学中的统计学习-statistical-learning-for-data-science)
   - [:computer: EE341 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit\_Design-Microprocessor](#computer-ee341-集成电路前沿-微处理器设计-advanced-integrated-circuit_design-microprocessor)
-  - [:traffic\_light: EE346 移动机器人导航与控制 Mobile Robot Navigation and Control](#traffic_light-ee346-移动机器人导航与控制-mobile-robot-navigation-and-control)
-  - [:computer: EE351 微机原理与微系统 Microprocessors and Microsystems](#computer-ee351-微机原理与微系统-microprocessors-and-microsystems)
-  - [:robot: EE368 机器人运动与控制方法 Robotics:Motion-and-Control](#robot-ee368-机器人运动与控制方法-roboticsmotion-and-control)
+  - [:traffic\_light: EE346 移动机器人导航与控制 Mobile-Robot-Navigation-and-Control](#traffic_light-ee346-移动机器人导航与控制-mobile-robot-navigation-and-control)
+  - [:computer: EE351 微机原理与微系统 Microprocessors-and-Microsystems](#computer-ee351-微机原理与微系统-microprocessors-and-microsystems)
+  - [:robot: EE368 机器人运动与控制方法 Robotics-Motion-and-Control](#robot-ee368-机器人运动与控制方法-robotics-motion-and-control)
   - [:information\_source: EE411 信息论与编码 Information-Theory-and-Coding](#information_source-ee411-信息论与编码-information-theory-and-coding)
   - [:wave: EE490 毕业设计 Graduation Design](#wave-ee490-毕业设计-graduation-design)
   - [:bulb: EES103 电子创意设计I Creative-Electronic-Design-I](#bulb-ees103-电子创意设计i-creative-electronic-design-i)
@@ -236,9 +237,6 @@ _This page is not available in [English](README.en.md) yet._
 > * [2023Spring](https://github.com/drinktoomuchsax/SUSTech_EE206_Communication-Principle/tree/main/lab) @Drinktoomuchsax
 > * [2024Spring](https://github.com/Wendy-Ying/Communication-Principles-Lab) @Wendy-Ying
 
-
-
-
 ## :electric_plug: EE208 工程电磁场理论 Engineering Electromagnetics
 
 ### LAB
@@ -252,10 +250,19 @@ _This page is not available in [English](README.en.md) yet._
 > * [2024Fall](https://github.com/Lgx521/EE208_Engineering_Electromagnetics.git) @Lgx521
 
 
+
+## :robot: EE211 机器人感知与智能 Robotic Perception and Intelligence
+
+### Project
+> * [2025 Fall](https://github.com/Wendy-Ying/Autonomous-Navigation-Grasping-Visual-Detection-System) @Wendy-Ying
+
+
 ## :camera: SME306 先进数字-CMOS-集成电路设计 Advanced-Digital-CMOS-IC-Design
 
 ### Project
 > * [2021Spring Project](https://mirrors.sustech.edu.cn/git/11810818/ee306-digital-cmos-design-project) @袁通
+
+
 
 ## :satellite: EE307 天线与电波传播 Antennas-and-Propagation
 
@@ -267,6 +274,7 @@ _This page is not available in [English](README.en.md) yet._
 
 ### Project
 > * [2022 Spring](https://github.com/Jcq242818/EE307-2022-Spring) @Jcq242818
+
 
 
 ## :signal_strength: EE312 前沿通信系统设计 Design-of-Modern-Communication-Systems
@@ -282,7 +290,9 @@ _This page is not available in [English](README.en.md) yet._
 ### Project
 > * [2024Fall](https://github.com/Wendy-Ying/Minimum-Sim-LAN) @Wendy-Ying
 
-## :musical_score: EE317 电子科学创新实验I
+
+
+## :musical_score: EE317 电子科学创新实验I Advanced Electronic Science Experiment
 电创I一学期分为前8周和后8周，前8周用Android Studio开发app，后8周教stm32。
 
 ### Android Studio
@@ -310,6 +320,7 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 > * [Homeworks 2023Fall](https://github.com/Wendy-Ying/STM32-Learning) @Wendy-Ying
 
 
+
 ## :yum: EE323 数字信号处理 Digital-Signal-Processing
 
 ### Lecture Recording
@@ -327,6 +338,8 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 > * [牛蛙卷屋QQ群（538939874）](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=q6I2-vQsBVWGqGzIsnDqaYfda5gi7rAn&authKey=nYd7mvVFGYxDmSxZYZ3u90XsK0TIKmEMEYW34i2CVFPQ8w39MeUwr6h6WDHUOJrF&noverify=0&group_code=538939874)，在文件中搜索关键词“DSP”，“DSP习题答案”收录了流出的习题答案 @学长
 > * [2023Fall Tutorial](https://github.com/drinktoomuchsax/SUSTech-EE323-DSP) @喝多了萨克斯
 
+
+
 ## :art: EE326 数字图像处理 Digital-Image-Processing
 
 ### Lab Assignments
@@ -340,6 +353,7 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 > * [2021Spring Project](https://github.com/sparkcyf/SUSTech-EE326-Digital-Image-Processing-Project) @sparkcyf
 > * [2021Spring Project stegano](https://github.com/sghuang19/dip-project-stegano) @sghuang19
 > * [2023Spring Project](https://github.com/Gralerfics/SUSTech-EE326-Digital-Image-Processing-Project) @Gralerfics
+
 
 ## :memo: EE332 数字系统设计 Digital-System-Design
 
@@ -355,6 +369,7 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 
 ### Martieral 
 > * [Related materials](https://github.com/Stupid-WOLF/EE332_SUSTech) @Stupid-WOLF
+
 
 ## :bar_chart: EE340 数据科学中的统计学习 Statistical-Learning-for-Data-Science
 
@@ -379,6 +394,7 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 > * [2021Spring Project](https://github.com/BarryZou/EE346-Capstone-Project) @BarryZou
 > * [2021Spring File and Project](https://github.com/rd-pong/ee346_remote_pc_catkin_ws) @rd-pong @xy1802
 
+
 ## :computer: EE351 微机原理与微系统 Microprocessors and Microsystems
 
 ### LAB
@@ -387,7 +403,7 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 ### Project
 > * [2024Fall](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Midterm-Project) @Wendy-Ying
 
-##  :robot: EE368 机器人运动与控制方法 Robotics:Motion-and-Control
+##  :robot: EE368 机器人运动与控制方法 Robotics-Motion-and-Control
 
 ### Project
 > * [2023Spring Project](https://github.com/Gralerfics/SUSTech-EE368-Robotic-Motion-and-Control-Project) @Gralerfics
@@ -432,6 +448,8 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 > * [2024Fall期末](https://github.com/Wendy-Ying/Wheat-Seed-Classification-Prediction) @Wendy-Ying
 > * [2024Fall期中与期末](https://github.com/ziyuanLi-alex/sdm274) @ziyuanLi-alex
 
+
+
 ## :books: SDM371 大数据 Big-Data
 
 ### Lab Assignments
@@ -470,3 +488,5 @@ Bob Labs在招本科生，感兴趣的同学请联系高荣老师，大一勿扰
 # :star: Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=SUSTech-EE-Course-Hero/SUSTech-EE-Course-Hero&type=Date)](https://star-history.com/#SUSTech-EE-Course-Hero/SUSTech-EE-Course-Hero&Date)
+
+
