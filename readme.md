@@ -51,7 +51,7 @@ _This page is not available in [English](README.en.md) yet._
   - [:satellite: EE307 天线与电波传播 Antennas-and-Propagation](#satellite-ee307-天线与电波传播-antennas-and-propagation)
   - [:signal\_strength: EE312 前沿通信系统设计 Design-of-Modern-Communication-Systems](#signal_strength-ee312-前沿通信系统设计-design-of-modern-communication-systems)
   - [:email: EE315 数据通信和网络 Data-Communications-and-Computer-Networks](#email-ee315-数据通信和网络-data-communications-and-computer-networks)
-  - [:musical\_score: EE317 电子科学创新实验I](#musical_score-ee317-电子科学创新实验i)
+  - [:musical\_score: EE317 电子科学创新实验I Advanced-Electronic-Science-Experiment](#musical_score-ee317-电子科学创新实验i-advanced-electronic-science-experiment)
   - [:yum: EE323 数字信号处理 Digital-Signal-Processing](#yum-ee323-数字信号处理-digital-signal-processing)
   - [:art: EE326 数字图像处理 Digital-Image-Processing](#art-ee326-数字图像处理-digital-image-processing)
   - [:memo: EE332 数字系统设计 Digital-System-Design](#memo-ee332-数字系统设计-digital-system-design)
@@ -292,7 +292,7 @@ _This page is not available in [English](README.en.md) yet._
 
 
 
-## :musical_score: EE317 电子科学创新实验I
+## :musical_score: EE317 电子科学创新实验I Advanced Electronic Science Experiment
 电创I一学期分为前8周和后8周，前8周用Android Studio开发app，后8周教stm32。
 
 ### Android Studio
@@ -488,4 +488,5 @@ Bob Labs在招本科生，感兴趣的同学请联系高荣老师，大一勿扰
 # :star: Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=SUSTech-EE-Course-Hero/SUSTech-EE-Course-Hero&type=Date)](https://star-history.com/#SUSTech-EE-Course-Hero/SUSTech-EE-Course-Hero&Date)
+
 
