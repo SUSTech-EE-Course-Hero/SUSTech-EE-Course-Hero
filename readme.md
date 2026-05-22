@@ -66,6 +66,7 @@ _This page is not available in [English](README.en.md) yet._
   - [:heart\_eyes: SDM242 模拟电路系统设计 Analog-Circuit-System-Design](#heart_eyes-sdm242-模拟电路系统设计-analog-circuit-system-design)
   - [:brain: SDM274 人工智能与机器学习 AI-and-Machine-Learning](#brain-sdm274-人工智能与机器学习-ai-and-machine-learning)
   - [:books: SDM371 大数据 Big-Data](#books-sdm371-大数据-big-data)
+  - [📶 SME206 信号与系统 Signals-and-Systems](#-sme206-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F-signals-and-systems)
 - [:mortar\_board: 说明](#mortar_board-说明)
 - [:telephone\_receiver: 保持联系](#telephone_receiver-保持联系)
 - [:bust\_in\_silhouette:广告示例](#bust_in_silhouette广告示例)
