@@ -111,7 +111,7 @@ _This page is not available in [English](README.en.md) yet._
 
 推荐听高振的网课：[gaozhencn](https://space.bilibili.com/455148200/video)
 
-## :currency_exchange: EE205 信号与系统 Signal-and-System
+## :currency_exchange: EE205 信号和系统 Signal-and-System
 
 ### 习题答案
 > 可以参考@Yifei Sun留下来的Tutorial（[Onedrive备份](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&id=8065B71CE1CED3A6%2126971&cid=8065B71CE1CED3A6)，当然也可以去[Quizlet](https://quizlet.com/explanations/textbook-solutions/signals-and-systems-2nd-edition-9780138147570)看课本答案。
@@ -439,11 +439,11 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 
 ## :brain: SDM274 人工智能与机器学习 AI-and-Machine-Learning
 
-## lab
+### lab
 > * [2024Fall](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab) @Wendy-Ying
 > * [2024Fall](https://github.com/ziyuanLi-alex/sdm274) @ziyuanLi-alex
 
-## Project
+### Project
 > * [2024Fall期中](https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction) @Wendy-Ying
 > * [2024Fall期末](https://github.com/Wendy-Ying/Wheat-Seed-Classification-Prediction) @Wendy-Ying
 > * [2024Fall期中与期末](https://github.com/ziyuanLi-alex/sdm274) @ziyuanLi-alex
@@ -454,6 +454,11 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 
 ### Lab Assignments
 > * [2021Fall Lab](https://github.com/sghuang19/sdm-371) @sghuang19
+
+## 📶 SME206 信号与系统 Signals-and-Systems
+
+### Project
+> * [2025Fall](https://github.com/XLinfini/SUSTech_SME206_Project_2025FA) @XLinfini
 
 ---
 
