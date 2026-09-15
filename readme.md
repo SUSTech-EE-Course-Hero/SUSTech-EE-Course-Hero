@@ -50,23 +50,32 @@ _This page is not available in [English](README.en.md) yet._
   - [:camera: SME306 先进数字-CMOS-集成电路设计 Advanced-Digital-CMOS-IC-Design](#camera-sme306-先进数字-cmos-集成电路设计-advanced-digital-cmos-ic-design)
   - [:satellite: EE307 天线与电波传播 Antennas-and-Propagation](#satellite-ee307-天线与电波传播-antennas-and-propagation)
   - [:signal\_strength: EE312 前沿通信系统设计 Design-of-Modern-Communication-Systems](#signal_strength-ee312-前沿通信系统设计-design-of-modern-communication-systems)
+  - [:satellite: EE313 无线通信 Wireless-Communications](#satellite-ee313-无线通信-wireless-communications)
   - [:email: EE315 数据通信和网络 Data-Communications-and-Computer-Networks](#email-ee315-数据通信和网络-data-communications-and-computer-networks)
+  - [:zap: EE316 微波工程 Microwave-Engineering](#zap-ee316-微波工程-microwave-engineering)
   - [:musical\_score: EE317 电子科学创新实验I Advanced-Electronic-Science-Experiment](#musical_score-ee317-电子科学创新实验i-advanced-electronic-science-experiment)
+  - [:wrench: EE318 电子科学创新实验II Advanced-Electronic-Science-Experiment-II](#wrench-ee318-电子科学创新实验ii-advanced-electronic-science-experiment-ii)
   - [:yum: EE323 数字信号处理 Digital-Signal-Processing](#yum-ee323-数字信号处理-digital-signal-processing)
   - [:art: EE326 数字图像处理 Digital-Image-Processing](#art-ee326-数字图像处理-digital-image-processing)
+  - [:battery: EE328 语音信号处理 Speech-Signal-Processing](#battery-ee328-语音信号处理-speech-signal-processing)
   - [:memo: EE332 数字系统设计 Digital-System-Design](#memo-ee332-数字系统设计-digital-system-design)
   - [:bar\_chart: EE340 数据科学中的统计学习 Statistical-Learning-for-Data-Science](#bar_chart-ee340-数据科学中的统计学习-statistical-learning-for-data-science)
   - [:computer: EE341 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit\_Design-Microprocessor](#computer-ee341-集成电路前沿-微处理器设计-advanced-integrated-circuit_design-microprocessor)
   - [:traffic\_light: EE346 移动机器人导航与控制 Mobile-Robot-Navigation-and-Control](#traffic_light-ee346-移动机器人导航与控制-mobile-robot-navigation-and-control)
   - [:computer: EE351 微机原理与微系统 Microprocessors-and-Microsystems](#computer-ee351-微机原理与微系统-microprocessors-and-microsystems)
   - [:robot: EE368 机器人运动与控制方法 Robotics-Motion-and-Control](#robot-ee368-机器人运动与控制方法-robotics-motion-and-control)
+  - [:hammer: EE405 电子科学创新实验III Advanced-Electronic-Science-Experiment-III](#hammer-ee405-电子科学创新实验iii-advanced-electronic-science-experiment-iii)
   - [:information\_source: EE411 信息论与编码 Information-Theory-and-Coding](#information_source-ee411-信息论与编码-information-theory-and-coding)
   - [:wave: EE490 毕业设计 Graduation Design](#wave-ee490-毕业设计-graduation-design)
   - [:bulb: EES103 电子创意设计I Creative-Electronic-Design-I](#bulb-ees103-电子创意设计i-creative-electronic-design-i)
   - [:heart\_eyes: SDM242 模拟电路系统设计 Analog-Circuit-System-Design](#heart_eyes-sdm242-模拟电路系统设计-analog-circuit-system-design)
+  - [:balance\_scale: SDM273 智能传感与信号处理 Intelligent-Sensors-and-Signal-Processing](#balance_scale-sdm273-智能传感与信号处理-intelligent-sensors-and-signal-processing)
   - [:brain: SDM274 人工智能与机器学习 AI-and-Machine-Learning](#brain-sdm274-人工智能与机器学习-ai-and-machine-learning)
+  - [:chart\_with\_upwards\_trend: SDM303 智能控制科学创新实践III Innovative-Practice-for-Intelligent-Control-Science-III](#chart_with_upwards_trend-sdm303-智能控制科学创新实践iii-innovative-practice-for-intelligent-control-science-iii)
+  - [:dart: SDM366 最优控制与估计 Optimal-Control-and-Estimation](#dart-sdm366-最优控制与估计-optimal-control-and-estimation)
   - [:books: SDM371 大数据 Big-Data](#books-sdm371-大数据-big-data)
   - [📶 SME206 信号与系统 Signals-and-Systems](#-sme206-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F-signals-and-systems)
+  - [:microscope: SME212 数字集成电路 Digital-Integrated-Circuit](#microscope-sme212-数字集成电路-digital-integrated-circuit)
 - [:mortar\_board: 说明](#mortar_board-说明)
 - [:telephone\_receiver: 保持联系](#telephone_receiver-保持联系)
 - [:bust\_in\_silhouette:广告示例](#bust_in_silhouette广告示例)
@@ -130,6 +139,11 @@ _This page is not available in [English](README.en.md) yet._
 > * [maybe_2022年秋季Assignments和Project](https://github.com/StortInter/EE205-Assignments) @StortInter
 > * [乱得要死_2022年秋季Assignments和Project](https://github.com/deepoceansame/SUSTECH_EE205_SignalAndSystem) @deepoceansame
 > * [2023秋季Project](https://github.com/Wendy-Ying/Speech-Synthesis-And-Perception-With-Envelope-Cue) @Wendy-Ying
+> * [Assignments](https://github.com/lapluis/EE205-Assignments) @lapluis
+> * [Lab实验报告](https://github.com/LiferLifer/EE205-Signals-and-Systems-Lab) @LiferLifer
+> * [Project](https://github.com/LiferLifer/EE205-Signals-and-Systems-Project) @LiferLifer
+> * [Project](https://github.com/squarezhong/SUSTech-EE205-Signals-and-Systems-Project) @squarezhong
+> * [Project1](https://github.com/Victoria-7k/SUSTech-EE205-Project1) @Victoria-7k
 
 #### 实验报告
 
@@ -171,6 +185,8 @@ _This page is not available in [English](README.en.md) yet._
 > * [Lab6_100_负反馈放大电路研究](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127676&parId=8065B71CE1CED3A6%2126957&o=OneUp)
 > * [Lab6_100_负反馈放大电路研究 (2)](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127677&parId=8065B71CE1CED3A6%2126957&o=OneUp)
 
+
+> * [Lab报告](https://github.com/hwy0507/EE201-17L_Analog-Circuits-Laboratory) @hwy0507
 
 ### Multisim程序
 > * [Multisim_Lab4](https://github.com/SvetaFedorova/SUSTech_EE202-17L/tree/main/multisim%20program/lab4) @SvetaFedorova
@@ -218,6 +234,8 @@ _This page is not available in [English](README.en.md) yet._
 > * [Lab6_mix_时序逻辑电路](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127688&parId=8065B71CE1CED3A6%2126958&o=OneUp)
 > * [Lab7_mix_555时基电路](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127689&parId=8065B71CE1CED3A6%2126958&o=OneUp)
 
+> * [Lab报告](https://github.com/hwy0507/EE202-17L_Digital-Circuits-Laboratory) @hwy0507
+
 ### DIY Project
 > * [2024Spring](https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS) @Wendy-Ying
 
@@ -237,6 +255,9 @@ _This page is not available in [English](README.en.md) yet._
 ### LAB
 > * [2023Spring](https://github.com/drinktoomuchsax/SUSTech_EE206_Communication-Principle/tree/main/lab) @Drinktoomuchsax
 > * [2024Spring](https://github.com/Wendy-Ying/Communication-Principles-Lab) @Wendy-Ying
+> * [Lab资源(LabVIEW)](https://github.com/Ullr1/SUSTech-EE206-Communication-Principles) @Ullr1
+> * [Lab](https://github.com/Gralerfics/SUSTech-EE206-Communication-Principles-Laboratory) @Gralerfics
+> * [课程资料](https://github.com/hwy0507/EE206_Communication-Principles) @hwy0507
 
 ## :electric_plug: EE208 工程电磁场理论 Engineering Electromagnetics
 
@@ -246,6 +267,12 @@ _This page is not available in [English](README.en.md) yet._
 > * [2022Spring](https://github.com/Gralerfics/SUSTech-EE208-Engineering-Electromagnetic-Theory-Laboratory) @Gralerfics
 > * [2024Spring](https://github.com/Wendy-Ying/Engineering-Electromagnetics-Lab) @Wendy-Ying
 > * [2024Fall](https://github.com/Lgx521/EE208_Engineering_Electromagnetics.git) @Lgx521
+> * [Lab](https://github.com/Ullr1/SUSTech-EE208-Engineering-Electromagnetics) @Ullr1
+> * [实验代码和报告](https://github.com/HTC-O2/SUSTECH-EE208-Engineering-Electromagnetics-Lab-code) @HTC-O2
+> * [课程资料](https://github.com/hwy0507/EE208_Engineering-Electromagnetics) @hwy0507
+> * [作业和实验报告](https://github.com/drinktoomuchsax/SUSTech_EE208-Engineering_Electromagnetics) @Drinktoomuchsax
+> * [Lab](https://github.com/Mindevic/Sustech-EE208-Engineering-Electromagnetic-Theory) @Mindevic
+> * [课程资料](https://github.com/HarmoniXplus/SUSTech-EE208) @HarmoniXplus
 
 ### Assignments
 > * [2024Fall](https://github.com/Lgx521/EE208_Engineering_Electromagnetics.git) @Lgx521
@@ -256,6 +283,13 @@ _This page is not available in [English](README.en.md) yet._
 
 ### Project
 > * [2025 Fall](https://github.com/Wendy-Ying/Autonomous-Navigation-Grasping-Visual-Detection-System) @Wendy-Ying
+
+### LAB
+> * [Lab](https://github.com/Gralerfics/SUSTech-EE211-Robotic-Perception-and-Intelligence-Laboratory) @Gralerfics
+> * [课程资料](https://github.com/hwy0507/EE211_Robotic-Perception-and-Intelligence) @hwy0507
+
+### Dataset
+> * [Traffic-Light Dataset](https://github.com/Lv1321546/Traffic-Light-Dataset-for-SUSTech-EE211) @Lv1321546
 
 
 ## :camera: SME306 先进数字-CMOS-集成电路设计 Advanced-Digital-CMOS-IC-Design
@@ -286,10 +320,23 @@ _This page is not available in [English](README.en.md) yet._
 ### LAB
 > * [2022 Spring](https://github.com/Jcq242818/EE312-2022-Spring) @Jcq242818
 
+## :satellite: EE313 无线通信 Wireless-Communications
+
+### LAB
+> * [Lab资源(LabVIEW&USRP)](https://github.com/Ullr1/SUSTech-EE313-Wireless-Communications) @Ullr1
+
 ## :email: EE315 数据通信和网络 Data Communications and Computer Networks
 
 ### Project
 > * [2024Fall](https://github.com/Wendy-Ying/Minimum-Sim-LAN) @Wendy-Ying
+> * [2024Fall期末-局域网Python实现](https://github.com/RUSRUSHB/EE315-Finial-Project-SUSTech2024) @RUSRUSHB
+> * [安全投票系统](https://github.com/HTC-O2/SUSTECH-EE315-Secure-Voting-System-Based-on-DH-Key-Exchange-and-Caesar-Cipher) @HTC-O2
+> * [课程资料](https://github.com/hwy0507/EE315_Data-communications-and-networking) @hwy0507
+
+## :zap: EE316 微波工程 Microwave-Engineering
+
+### LAB
+> * [Lab资源(ADS)](https://github.com/Ullr1/SUSTech-EE316-Microwave-Engineering) @Ullr1
 
 
 
@@ -312,6 +359,7 @@ Android Studio开发前8周有两个小作业
 > * [MusicPlayer Reference 3](https://github.com/LiferLifer/EE317-MeowMusic) @LiferLifer
 > * [MusicPlayer Reference 4](https://github.com/HuaYuXiao/Music-player-APP-design) @HuaYuXiao
 > * [MusicPlayer Reference 5](https://github.com/Wendy-Ying/Android-APP) @Wendy-Ying
+> * [Android App Reference](https://github.com/Ullr1/SUSTech-EE317-Advanced-Electronic-Science-Experiment) @Ullr1
 
 ### STM32 part
 stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽取一道考察
@@ -319,6 +367,12 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 > * [Homeworks 2023Spring(maybe)](https://github.com/LiferLifer/EE317-Homework) @LiferLifer
 > * [Homeworks 2023Fall](https://github.com/drinktoomuchsax/SUSTech_EE317_STM32) @Drinktoomuchsax
 > * [Homeworks 2023Fall](https://github.com/Wendy-Ying/STM32-Learning) @Wendy-Ying
+> * [STM32 Homeworks](https://github.com/HTC-O2/HTC-SUSTECH-EE317-stm32-only) @HTC-O2
+
+## :wrench: EE318 电子科学创新实验II Advanced-Electronic-Science-Experiment-II
+
+### 课程资料
+> * [课程资料](https://github.com/hwy0507/EE318_Advanced-Electronic-Science-Experiment-II) @hwy0507
 
 
 
@@ -331,9 +385,14 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 > * [2023Fall Lab](https://github.com/drinktoomuchsax/SUSTech-EE323-DSP) @喝多了萨克斯
 > * [2020Fall Lab](https://github.com/rzy0901/My-solutions-to-DSP-LAB) @任振裕
 > * [2024Fall Lab](https://github.com/Wendy-Ying/Digital-Signal-Processing-Lab) @Wendy-Ying
+> * [Lab资源](https://github.com/Ullr1/SUSTech-EE323-Digital-Signal-Processing) @Ullr1
+> * [Lab](https://github.com/RUSRUSHB/EE323-Digital_Signal_Processing) @RUSRUSHB
+> * [Lab代码和报告](https://github.com/HarmoniXplus/SUSTech-EE323DSP) @HarmoniXplus
+> * [课程资料](https://github.com/hwy0507/EE323_Digital-Signal-Processing) @hwy0507
 
 ### Mini Project
 > * [2024Fall](https://github.com/Wendy-Ying/Computer-Generate-Music) @Wendy-Ying
+> * [Mini Project音乐集合](https://github.com/RUSRUSHB/Songs-of-DSP-Mini-Project-SUSTech-EE323) @RUSRUSHB
 
 ### Tutorial Problem
 > * [牛蛙卷屋QQ群（538939874）](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=q6I2-vQsBVWGqGzIsnDqaYfda5gi7rAn&authKey=nYd7mvVFGYxDmSxZYZ3u90XsK0TIKmEMEYW34i2CVFPQ8w39MeUwr6h6WDHUOJrF&noverify=0&group_code=538939874)，在文件中搜索关键词“DSP”，“DSP习题答案”收录了流出的习题答案 @学长
@@ -348,12 +407,23 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 > * [2021Spring Lab](https://github.com/sparkcyf/SUSTech_EE326_Digital_image_Processing) @sparkcyf
 > * [2021Spring Lab](https://github.com/Tonanguyxiro/EE326_Digital_Image_Processing_LAB) @Tonanguyxiro
 > * [2021Spring Lab](https://github.com/sghuang19/dip-lab) @sghuang19
+> * [2021Spring Lab](https://github.com/sghng/ee326-sp21-lab) @sghng
+> * [Assignments和试卷代码](https://github.com/FrederichII/SUStech-EE326-Digital-Image-Processing) @FrederichII
 
 ### Project 
 > * [2019Spring Project](https://github.com/rd-pong/EE326-Project-Playing-Card-Recognition) @rd-pong
 > * [2021Spring Project](https://github.com/sparkcyf/SUSTech-EE326-Digital-Image-Processing-Project) @sparkcyf
 > * [2021Spring Project stegano](https://github.com/sghuang19/dip-project-stegano) @sghuang19
 > * [2023Spring Project](https://github.com/Gralerfics/SUSTech-EE326-Digital-Image-Processing-Project) @Gralerfics
+> * [2021Spring Project](https://github.com/sghng/ee326-sp21) @sghng
+
+## :battery: EE328 语音信号处理 Speech-Signal-Processing
+
+### Lab Assignments
+> * [Lab Homework和Final Project](https://github.com/hwy0507/EE328_Speech-Signal-Processing) @hwy0507
+
+### Project
+> * [说话人识别Project](https://github.com/Nemophilist04/SUSTech-EE328-Project) @Nemophilist04
 
 
 ## :memo: EE332 数字系统设计 Digital-System-Design
@@ -362,6 +432,8 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 > * [2023 Spring](https://github.com/Gralerfics/SUSTech-EE332-Digital-System-Designing-Laboratory) @Gralerfics
 > * [2020 Spring](https://github.com/Yuzhe-Fu/EE332) @Yuzhe-Fu
 > * [2025 Spring](https://github.com/Wendy-Ying/Digital-System-Design-Lab) @Wendy-Ying
+> * [2024 Spring](https://github.com/KagaJiankui/EE332-2024S) @KagaJiankui
+> * [课程资料](https://github.com/hwy0507/EE332_Digital-System-Design) @hwy0507
 
 ### Project
 > * [Pipelined Minecraft-like 3D Game Rendering](https://github.com/Gralerfics/FmcPGA) @Gralerfics
@@ -381,6 +453,10 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 ### Project
 > * [2023 Spring](https://github.com/Jcq242818/EE340-2023-Spring) @Jcq242818
 > * [2024 Spring](https://github.com/Ethylene9160/EE340_Statictical_Learning_for_Data_Science) @Ethylene9160
+> * [Project1-ViT](https://github.com/squarezhong/EE340-Project1-Vision-Transformer) @squarezhong
+> * [Project2-DAGMM](https://github.com/squarezhong/EE340-Project2-DAGMM) @squarezhong
+> * [2026 Spring](https://github.com/gravitatio/sustech_EE340_project_2026spring) @gravitatio
+> * [课程资料](https://github.com/hwy0507/EE340_Statistical-Learning-for-Data-Science) @hwy0507
 
 ## :computer: EE341 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit_Design-Microprocessor
 > * [2020Fall something](https://github.com/sparkcyf/SUSTech_EE341_Advanced_Integrated_Circuit_Design_Microprocessor_Project) @sparkcyf @Tonanguyxiro @Duke110931 @OokaMomiji
@@ -390,6 +466,10 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 ### LAB
 > * [2023Spring Lab](https://github.com/Gralerfics/SUSTech-EE346-Mobile-Robot-Navigation-and-Control-Laboratory) @Gralerfics
 > * [2024Fall Lab](https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab) @Wendy-Ying
+> * [2022 Spring资料](https://github.com/JefferyXeom/SUSTech_EE346_2022_spring) @JefferyXeom
+> * [Lab4](https://github.com/wansaisuccessful/EE346lab4) @wansaisuccessful
+> * [Lab4-循迹](https://github.com/wansaisuccessful/EE346lab4-linefollowing) @wansaisuccessful
+> * [2024Fall Lecture/Homework](https://github.com/FrederichII/SUSTech-EE346-LectureHW) @FrederichII
 
 ### Project
 > * [2021Spring Project](https://github.com/BarryZou/EE346-Capstone-Project) @BarryZou
@@ -400,9 +480,16 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 
 ### LAB
 > * [2024Fall](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Lab) @Wendy-Ying
+> * [Lab资源](https://github.com/Ullr1/SUSTech-EE351-Microprocessors-and-Microsystems) @Ullr1
+> * [Raspberry Pi Lab](https://github.com/Wavelix/EE351_Raspberry_Pi_Lab) @Wavelix
+> * [2024Fall Lab报告](https://github.com/sergiudm/ee351-lab-reports) @sergiudm
+> * [课程资料](https://github.com/hwy0507/EE351_Microprocessors-and-Microsystems) @hwy0507
+> * [Homework归档](https://github.com/drinktoomuchsax/SUSTech-EE351-Microprocessors_and_Microsystems) @Drinktoomuchsax
+> * [2024作业](https://github.com/RUSRUSHB/EE351-Homework-SUSTech2024) @RUSRUSHB
 
 ### Project
 > * [2024Fall](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Midterm-Project) @Wendy-Ying
+> * [Project](https://github.com/Gralerfics/SUSTech-EE351-Microprocessors-and-Microsystems-Project) @Gralerfics
 
 ##  :robot: EE368 机器人运动与控制方法 Robotics-Motion-and-Control
 
@@ -411,11 +498,21 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 > * [2024 Assignment, Note, Lab](https://github.com/RUSRUSHB/SUSTech-EE368-Robotics-Motion-and-Control) @RUSRUSHB
 > * [2025 Spring Assignment](https://github.com/Wendy-Ying/Robotic-Motion-and-Control) @Wendy-Ying
 > * [2025 Spring Project](https://github.com/Wendy-Ying/rrt_planner) @Wendy-Ying
+> * [Gomoku机器人Project](https://github.com/squarezhong/SUSTech-EE368-Project) @squarezhong
+> * [Reference](https://github.com/Ethylene9160/EE368_SUSTech_Reference) @Ethylene9160
+> * [课程资料](https://github.com/lingxiaomeng/SUSTech-EE368) @lingxiaomeng
+
+## :hammer: EE405 电子科学创新实验III Advanced-Electronic-Science-Experiment-III
+
+### 课程资料
+> * [课程资料](https://github.com/hwy0507/EE405_Advanced-Electronic-Science-Experiment-III) @hwy0507
 
 ## :information_source: EE411 信息论与编码 Information-Theory-and-Coding
 
 ### Project
 > * [2022 Fall](https://github.com/Jcq242818/EE411-2022-Fall)@Jcq242818
+> * [2023 Fall](https://github.com/0SliverBullet/EE411-Information-Theory-and-Coding) @0SliverBullet
+> * [2024Fall Project](https://github.com/FC-Viiiiictor-K/SUSTech-2024Fall-EE411-Project) @FC-Viiiiictor-K
 
 ## :wave: EE490 毕业设计 Graduation Design
 
@@ -438,16 +535,40 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 > * [2022Fall 垃圾桶套件](https://github.com/Group-whatsoever/Intelligent-Trash-Can-Kit) @David-s2029 @DreamWalkerXZ @Doveqise @drinktoomuchsax
 > * [似乎是一个秤](https://github.com/SDIM-Group2/Final-code) @SDIM-Group2
 
+## :balance_scale: SDM273 智能传感与信号处理 Intelligent-Sensors-and-Signal-Processing
+
+### Assignments
+> * [Assignments](https://github.com/squarezhong/SUSTech-SDM273-Assignments) @squarezhong
+> * [MEMS加速度计振动信号建模](https://github.com/LixianXue3/mems-accelerometer-simulation) @LixianXue3
+
+### Project
+> * [Final Project-重量检测器](https://github.com/Ethylene9160/SDM273_FinalProject_IntelligientSensor_WeightDetector) @Ethylene9160
+> * [Final Project-重量检测器(调试前版)](https://github.com/Ethylene9160/SDM273_FinalProject_WeightDetector) @Ethylene9160
+
 ## :brain: SDM274 人工智能与机器学习 AI-and-Machine-Learning
 
 ### lab
 > * [2024Fall](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab) @Wendy-Ying
 > * [2024Fall](https://github.com/ziyuanLi-alex/sdm274) @ziyuanLi-alex
+> * [Assignments](https://github.com/Gralerfics/SUSTech-SDM274-AI-and-Machine-Learning-Assignments) @Gralerfics
+> * [Lab和Project](https://github.com/Wavelix/SDM274_AI_ML) @Wavelix
+> * [课程资料](https://github.com/VivianChencwy/sustech_SDM274) @VivianChencwy
+> * [Projects](https://github.com/Markwcl2004/SDM274_AI_ML) @Markwcl2004
 
 ### Project
 > * [2024Fall期中](https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction) @Wendy-Ying
 > * [2024Fall期末](https://github.com/Wendy-Ying/Wheat-Seed-Classification-Prediction) @Wendy-Ying
 > * [2024Fall期中与期末](https://github.com/ziyuanLi-alex/sdm274) @ziyuanLi-alex
+
+## :chart_with_upwards_trend: SDM303 智能控制科学创新实践III Innovative-Practice-for-Intelligent-Control-Science-III
+
+### Project
+> * [2025Spring DeepONet求解PDE](https://github.com/Wavelix/SDM303_DeepONet) @Wavelix
+
+## :dart: SDM366 最优控制与估计 Optimal-Control-and-Estimation
+
+### Assignments
+> * [2024Spring](https://github.com/Ethylene9160/SDM366_Optimal_Estimation) @Ethylene9160
 
 
 
@@ -460,6 +581,11 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 
 ### Project
 > * [2025Fall](https://github.com/XLinfini/SUSTech_SME206_Project_2025FA) @XLinfini
+
+## :microscope: SME212 数字集成电路 Digital-Integrated-Circuit
+
+### Project
+> * [2026Spring Final Project](https://github.com/XLinfini/SUSTech-SME212-2026SP-Project) @XLinfini
 
 ---
 
