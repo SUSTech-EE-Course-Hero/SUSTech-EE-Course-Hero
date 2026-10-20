@@ -186,7 +186,6 @@ _This page is not available in [English](README.en.md) yet._
 > * [Lab6_100_负反馈放大电路研究 (2)](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127677&parId=8065B71CE1CED3A6%2126957&o=OneUp)
 
 
-> * [Lab报告](https://github.com/hwy0507/EE201-17L_Analog-Circuits-Laboratory) @hwy0507
 
 ### Multisim程序
 > * [Multisim_Lab4](https://github.com/SvetaFedorova/SUSTech_EE202-17L/tree/main/multisim%20program/lab4) @SvetaFedorova
@@ -234,7 +233,6 @@ _This page is not available in [English](README.en.md) yet._
 > * [Lab6_mix_时序逻辑电路](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127688&parId=8065B71CE1CED3A6%2126958&o=OneUp)
 > * [Lab7_mix_555时基电路](https://onedrive.live.com/?authkey=%21ACAiW5SQSu05D0k&cid=8065B71CE1CED3A6&id=8065B71CE1CED3A6%2127689&parId=8065B71CE1CED3A6%2126958&o=OneUp)
 
-> * [Lab报告](https://github.com/hwy0507/EE202-17L_Digital-Circuits-Laboratory) @hwy0507
 
 ### DIY Project
 > * [2024Spring](https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS) @Wendy-Ying
@@ -257,7 +255,6 @@ _This page is not available in [English](README.en.md) yet._
 > * [2024Spring](https://github.com/Wendy-Ying/Communication-Principles-Lab) @Wendy-Ying
 > * [Lab资源(LabVIEW)](https://github.com/Ullr1/SUSTech-EE206-Communication-Principles) @Ullr1
 > * [Lab](https://github.com/Gralerfics/SUSTech-EE206-Communication-Principles-Laboratory) @Gralerfics
-> * [课程资料](https://github.com/hwy0507/EE206_Communication-Principles) @hwy0507
 
 ## :electric_plug: EE208 工程电磁场理论 Engineering Electromagnetics
 
@@ -269,7 +266,6 @@ _This page is not available in [English](README.en.md) yet._
 > * [2024Fall](https://github.com/Lgx521/EE208_Engineering_Electromagnetics.git) @Lgx521
 > * [Lab](https://github.com/Ullr1/SUSTech-EE208-Engineering-Electromagnetics) @Ullr1
 > * [实验代码和报告](https://github.com/HTC-O2/SUSTECH-EE208-Engineering-Electromagnetics-Lab-code) @HTC-O2
-> * [课程资料](https://github.com/hwy0507/EE208_Engineering-Electromagnetics) @hwy0507
 > * [作业和实验报告](https://github.com/drinktoomuchsax/SUSTech_EE208-Engineering_Electromagnetics) @Drinktoomuchsax
 > * [Lab](https://github.com/Mindevic/Sustech-EE208-Engineering-Electromagnetic-Theory) @Mindevic
 > * [课程资料](https://github.com/HarmoniXplus/SUSTech-EE208) @HarmoniXplus
@@ -286,7 +282,6 @@ _This page is not available in [English](README.en.md) yet._
 
 ### LAB
 > * [Lab](https://github.com/Gralerfics/SUSTech-EE211-Robotic-Perception-and-Intelligence-Laboratory) @Gralerfics
-> * [课程资料](https://github.com/hwy0507/EE211_Robotic-Perception-and-Intelligence) @hwy0507
 
 ### Dataset
 > * [Traffic-Light Dataset](https://github.com/Lv1321546/Traffic-Light-Dataset-for-SUSTech-EE211) @Lv1321546
@@ -331,7 +326,6 @@ _This page is not available in [English](README.en.md) yet._
 > * [2024Fall](https://github.com/Wendy-Ying/Minimum-Sim-LAN) @Wendy-Ying
 > * [2024Fall期末-局域网Python实现](https://github.com/RUSRUSHB/EE315-Finial-Project-SUSTech2024) @RUSRUSHB
 > * [安全投票系统](https://github.com/HTC-O2/SUSTECH-EE315-Secure-Voting-System-Based-on-DH-Key-Exchange-and-Caesar-Cipher) @HTC-O2
-> * [课程资料](https://github.com/hwy0507/EE315_Data-communications-and-networking) @hwy0507
 
 ## :zap: EE316 微波工程 Microwave-Engineering
 
@@ -372,7 +366,6 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 ## :wrench: EE318 电子科学创新实验II Advanced-Electronic-Science-Experiment-II
 
 ### 课程资料
-> * [课程资料](https://github.com/hwy0507/EE318_Advanced-Electronic-Science-Experiment-II) @hwy0507
 
 
 
@@ -388,7 +381,6 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 > * [Lab资源](https://github.com/Ullr1/SUSTech-EE323-Digital-Signal-Processing) @Ullr1
 > * [Lab](https://github.com/RUSRUSHB/EE323-Digital_Signal_Processing) @RUSRUSHB
 > * [Lab代码和报告](https://github.com/HarmoniXplus/SUSTech-EE323DSP) @HarmoniXplus
-> * [课程资料](https://github.com/hwy0507/EE323_Digital-Signal-Processing) @hwy0507
 
 ### Mini Project
 > * [2024Fall](https://github.com/Wendy-Ying/Computer-Generate-Music) @Wendy-Ying
@@ -420,7 +412,6 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 ## :battery: EE328 语音信号处理 Speech-Signal-Processing
 
 ### Lab Assignments
-> * [Lab Homework和Final Project](https://github.com/hwy0507/EE328_Speech-Signal-Processing) @hwy0507
 
 ### Project
 > * [说话人识别Project](https://github.com/Nemophilist04/SUSTech-EE328-Project) @Nemophilist04
@@ -433,7 +424,6 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 > * [2020 Spring](https://github.com/Yuzhe-Fu/EE332) @Yuzhe-Fu
 > * [2025 Spring](https://github.com/Wendy-Ying/Digital-System-Design-Lab) @Wendy-Ying
 > * [2024 Spring](https://github.com/KagaJiankui/EE332-2024S) @KagaJiankui
-> * [课程资料](https://github.com/hwy0507/EE332_Digital-System-Design) @hwy0507
 
 ### Project
 > * [Pipelined Minecraft-like 3D Game Rendering](https://github.com/Gralerfics/FmcPGA) @Gralerfics
@@ -456,7 +446,6 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 > * [Project1-ViT](https://github.com/squarezhong/EE340-Project1-Vision-Transformer) @squarezhong
 > * [Project2-DAGMM](https://github.com/squarezhong/EE340-Project2-DAGMM) @squarezhong
 > * [2026 Spring](https://github.com/gravitatio/sustech_EE340_project_2026spring) @gravitatio
-> * [课程资料](https://github.com/hwy0507/EE340_Statistical-Learning-for-Data-Science) @hwy0507
 
 ## :computer: EE341 集成电路前沿-微处理器设计 Advanced-Integrated-Circuit_Design-Microprocessor
 > * [2020Fall something](https://github.com/sparkcyf/SUSTech_EE341_Advanced_Integrated_Circuit_Design_Microprocessor_Project) @sparkcyf @Tonanguyxiro @Duke110931 @OokaMomiji
@@ -483,7 +472,6 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 > * [Lab资源](https://github.com/Ullr1/SUSTech-EE351-Microprocessors-and-Microsystems) @Ullr1
 > * [Raspberry Pi Lab](https://github.com/Wavelix/EE351_Raspberry_Pi_Lab) @Wavelix
 > * [2024Fall Lab报告](https://github.com/sergiudm/ee351-lab-reports) @sergiudm
-> * [课程资料](https://github.com/hwy0507/EE351_Microprocessors-and-Microsystems) @hwy0507
 > * [Homework归档](https://github.com/drinktoomuchsax/SUSTech-EE351-Microprocessors_and_Microsystems) @Drinktoomuchsax
 > * [2024作业](https://github.com/RUSRUSHB/EE351-Homework-SUSTech2024) @RUSRUSHB
 
@@ -505,7 +493,6 @@ stm32部分有两次作业；期末会有一次抽测，会从作业题目中抽
 ## :hammer: EE405 电子科学创新实验III Advanced-Electronic-Science-Experiment-III
 
 ### 课程资料
-> * [课程资料](https://github.com/hwy0507/EE405_Advanced-Electronic-Science-Experiment-III) @hwy0507
 
 ## :information_source: EE411 信息论与编码 Information-Theory-and-Coding
 

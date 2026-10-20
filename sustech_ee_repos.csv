@@ -1567,11 +1567,9 @@ ID,Name,Clone URL,Stars,Description,Topics,SUSTech
 1566,AerorKus/ee201a_project,https://github.com/AerorKus/ee201a_project.git,1,ee201a_project,,?
 1567,Geeoon/EE201.299-Car-Final-Project,https://github.com/Geeoon/EE201.299-Car-Final-Project.git,1,,,?
 1568,apple1003232/UCLA_EE201_VLSI-Design-Automation,https://github.com/apple1003232/UCLA_EE201_VLSI-Design-Automation.git,1,Final project routing,,?
-1569,hwy0507/EE201-17L_Analog-Circuits-Laboratory,https://github.com/hwy0507/EE201-17L_Analog-Circuits-Laboratory.git,1,,,yes
 1570,maomaodan/SmartHome_EE202A,https://github.com/maomaodan/SmartHome_EE202A.git,1,"Sensor data collection, processing and training to learn human behaviors inside a home setting.",,?
 1571,linyi-xia/EmbeddedSystems_EE202C,https://github.com/linyi-xia/EmbeddedSystems_EE202C.git,1,,,?
 1572,ee202cmobiltygroup/EE202C_Mobility_Project,https://github.com/ee202cmobiltygroup/EE202C_Mobility_Project.git,1,,,?
-1573,hwy0507/EE202-17L_Digital-Circuits-Laboratory,https://github.com/hwy0507/EE202-17L_Digital-Circuits-Laboratory.git,1,,,yes
 1574,cyli2014/Course-Design_EE203,https://github.com/cyli2014/Course-Design_EE203.git,1,Codes and reports for Modelling Study for Reliability Issues of A Master-Slave Multi-station Communication System in Shanghai Jiao Tong University.,sjtu,?
 1575,MY-Chen2000/SJTU-EE204,https://github.com/MY-Chen2000/SJTU-EE204.git,1,SJTU EE204 嵌入式原理,,?
 1576,sleepy-juan/KAIST-EE205,https://github.com/sleepy-juan/KAIST-EE205.git,1,"Data Structure and Algorithm for Electrical Engineering, 2018 Fall",,?
@@ -1582,7 +1580,6 @@ ID,Name,Clone URL,Stars,Description,Topics,SUSTech
 1581,Valen1402/EE205-Dijkstra-algo-on-path-finding,https://github.com/Valen1402/EE205-Dijkstra-algo-on-path-finding.git,1,Find optimal path between two point on a given map usign Dijkstra and A-star algorithm in C++,,?
 1582,ych09041/ee206akitchen,https://github.com/ych09041/ee206akitchen.git,1,,,?
 1583,Thomas-Kragerud/EE206B,https://github.com/Thomas-Kragerud/EE206B.git,1,,,?
-1584,hwy0507/EE206_Communication-Principles,https://github.com/hwy0507/EE206_Communication-Principles.git,1,,,yes
 1585,stackbit-projects/blue-comet-ee206,https://github.com/stackbit-projects/blue-comet-ee206.git,1,Jamstack site created with Stackbit,git;headless;hugo;jamstack;ssg;stackbit;static,?
 1586,electro-coder/Verilog-Codes-EE206P,https://github.com/electro-coder/Verilog-Codes-EE206P.git,1,Verilog codes for the course EE206P (Digital Systems Lab),,?
 1587,Zzzzpw/EE206A_Tesla_Project,https://github.com/Zzzzpw/EE206A_Tesla_Project.git,1,,,?
@@ -1591,7 +1588,6 @@ ID,Name,Clone URL,Stars,Description,Topics,SUSTech
 1590,ihanwen99/SJTU-EE208,https://github.com/ihanwen99/SJTU-EE208.git,1,18年秋季学期 上海交通大学电工导C,,?
 1591,MarkDana/SJTU-EE208-CV-SE,https://github.com/MarkDana/SJTU-EE208-CV-SE.git,1,"assignments for ee208, @2018 autumn, SJTU",,?
 1592,lym01803/SJTU-EE208-Project,https://github.com/lym01803/SJTU-EE208-Project.git,1,网上商城，python爬虫，lucene搜索，局部敏感hash以图搜图，利用resnet模型实现简单的logo分类。,,?
-1593,hwy0507/EE208_Engineering-Electromagnetics,https://github.com/hwy0507/EE208_Engineering-Electromagnetics.git,1,,,yes
 1594,Bireflection/ee208-final-project,https://github.com/Bireflection/ee208-final-project.git,1,上海交通大学电类工程导论C大作业,,?
 1595,reproducepark/EE209,https://github.com/reproducepark/EE209.git,1,,,?
 1596,HYE0NU/EE209,https://github.com/HYE0NU/EE209.git,1,,,?
@@ -1606,7 +1602,6 @@ ID,Name,Clone URL,Stars,Description,Topics,SUSTech
 1605,gmkim-ai/2016S_EE209,https://github.com/gmkim-ai/2016S_EE209.git,1,전자공학을 위한 프로그래밍 구조,,?
 1606,ee209-2019-spring/ee209-2019-spring.github.io,https://github.com/ee209-2019-spring/ee209-2019-spring.github.io.git,1,,,?
 1607,zhangzhiyi22/EE211_Final_Project,https://github.com/zhangzhiyi22/EE211_Final_Project.git,1,,,?
-1608,hwy0507/EE211_Robotic-Perception-and-Intelligence,https://github.com/hwy0507/EE211_Robotic-Perception-and-Intelligence.git,1,,,yes
 1609,RPAI-Lab/EE211-26Fall,https://github.com/RPAI-Lab/EE211-26Fall.git,1,,,?
 1610,yigit4869/EE212,https://github.com/yigit4869/EE212.git,1,Bilkent EE212-Microprocessors Fall 2023 Labs,,?
 1611,srknzl/ee212project2,https://github.com/srknzl/ee212project2.git,1,,,?
@@ -1699,7 +1694,6 @@ ID,Name,Clone URL,Stars,Description,Topics,SUSTech
 1698,baselAlmolki/EE314-Project,https://github.com/baselAlmolki/EE314-Project.git,1,,,?
 1699,irfancaglayan/metu-ee314,https://github.com/irfancaglayan/metu-ee314.git,1,This repository consists of the experimental work done in EE314 - Digital Electronics Laboratory course.,,?
 1700,heriportre/EE314-DIGITAL-CIRCUITS-LABORATORY-Spring2023-Term-Project,https://github.com/heriportre/EE314-DIGITAL-CIRCUITS-LABORATORY-Spring2023-Term-Project.git,1,"EE314 Digital Circuits Laboratory Spring 2023 Term Project Final Report codes, submodules, details, diagrams and schematics of Tic Tac Toe game implementation on FPGA is presented in this project. Used FPGA development board in here was DE-1 SoC.",,?
-1701,hwy0507/EE315_Data-communications-and-networking,https://github.com/hwy0507/EE315_Data-communications-and-networking.git,1,,,yes
 1702,kbielby09/EE316_Project3,https://github.com/kbielby09/EE316_Project3.git,1,Repository for EE316 Project 3,,?
 1703,kbielby09/EE316-Project4,https://github.com/kbielby09/EE316-Project4.git,1,repository for Clarkson University EE316 Project 4,,?
 1704,kbielby09/EE316-Final-Project,https://github.com/kbielby09/EE316-Final-Project.git,1,Final project for EE316 class at Clarkson University,,?
@@ -1726,7 +1720,6 @@ ID,Name,Clone URL,Stars,Description,Topics,SUSTech
 1725,ItsAAR0N/EE318_MCP,https://github.com/ItsAAR0N/EE318_MCP.git,1,Repository for SEM2 EE318 Project,,?
 1726,marsiau/EE318_DroneRrecoverySystem,https://github.com/marsiau/EE318_DroneRrecoverySystem.git,1,Drone recovery system project for EE318,,?
 1727,anqiermy/EE318-Poopcare,https://github.com/anqiermy/EE318-Poopcare.git,1,Poopcare需求规格说明书,,?
-1728,hwy0507/EE318_Advanced-Electronic-Science-Experiment-II,https://github.com/hwy0507/EE318_Advanced-Electronic-Science-Experiment-II.git,1,,,yes
 1729,ullahmukhtar/EE319-PRP,https://github.com/ullahmukhtar/EE319-PRP.git,1,EE319-Probability & Random Processes,,?
 1730,omedjaouri/EE319K,https://github.com/omedjaouri/EE319K.git,1,EE319K Lab Codes,,?
 1731,siddharth-iyer1/EE319K_Labs,https://github.com/siddharth-iyer1/EE319K_Labs.git,1,"Labs from EE319K, Spring '22",,?
@@ -1735,7 +1728,6 @@ ID,Name,Clone URL,Stars,Description,Topics,SUSTech
 1734,Balbertmichael/EE319K-Lab-0,https://github.com/Balbertmichael/EE319K-Lab-0.git,1,A Start,,?
 1735,NeuralDreamResearch/EE321-STT-Kernels,https://github.com/NeuralDreamResearch/EE321-STT-Kernels.git,1,Speech to Text kernel module,,?
 1736,Buddhi19/EE322-AutomaticTuner,https://github.com/Buddhi19/EE322-AutomaticTuner.git,1,Project Automatic Tuner : Implementing a Automatic Tuner for EE322 mini-project,arduino;assembly;microchip-studio,?
-1737,hwy0507/EE323_Digital-Signal-Processing,https://github.com/hwy0507/EE323_Digital-Signal-Processing.git,1,,,yes
 1738,hyunho-yeo/EE324_Assignment,https://github.com/hyunho-yeo/EE324_Assignment.git,1,EE324 network programming code,,?
 1739,2021EE324kaist/EE324-Assignment4,https://github.com/2021EE324kaist/EE324-Assignment4.git,1,,,?
 1740,gmkim-ai/2017F_EE324,https://github.com/gmkim-ai/2017F_EE324.git,1,네트워크 프로그래밍,,?
@@ -1760,7 +1752,6 @@ ID,Name,Clone URL,Stars,Description,Topics,SUSTech
 1759,Neha1204/EE338_MOOC_lec32manim,https://github.com/Neha1204/EE338_MOOC_lec32manim.git,1,,,?
 1760,SumanSudhir/CommunicationLab-EE340-,https://github.com/SumanSudhir/CommunicationLab-EE340-.git,1,Gnu_Radio code done for implementing and viewing the expected result of various communication system application,,?
 1761,LiferLifer/EE340_SLforDS_Final_Project,https://github.com/LiferLifer/EE340_SLforDS_Final_Project.git,1,"Final project of EE340, Statictical Learning for Data Science.",,?
-1762,hwy0507/EE340_Statistical-Learning-for-Data-Science,https://github.com/hwy0507/EE340_Statistical-Learning-for-Data-Science.git,1,,,yes
 1763,JosephTseng22/EE344-Bird-Song-Classifier,https://github.com/JosephTseng22/EE344-Bird-Song-Classifier.git,1,EE344 Final Project,,?
 1764,baohiobanha/ee345,https://github.com/baohiobanha/ee345.git,1,,,?
 1765,zlalanne/EE345M,https://github.com/zlalanne/EE345M.git,1,Solutions to EE345M Labs,,?
@@ -1775,7 +1766,6 @@ ID,Name,Clone URL,Stars,Description,Topics,SUSTech
 1774,LemonTorrent/EE347-Switchgear,https://github.com/LemonTorrent/EE347-Switchgear.git,1,,,?
 1775,sanmaneric/EE347-Team5,https://github.com/sanmaneric/EE347-Team5.git,1,,,?
 1776,CCcmill/EE351-2023Fall,https://github.com/CCcmill/EE351-2023Fall.git,1,上传了EE351微机原理与微系统2023Fall的部分资料和作业。,,?
-1777,hwy0507/EE351_Microprocessors-and-Microsystems,https://github.com/hwy0507/EE351_Microprocessors-and-Microsystems.git,1,,,yes
 1778,DalerAsrorov/ee352-assembly,https://github.com/DalerAsrorov/ee352-assembly.git,1,Assembly code for the EE 352 class.,,?
 1779,ThomasNing/EE354,https://github.com/ThomasNing/EE354.git,1,,,?
 1780,christianborao/EE354Project,https://github.com/christianborao/EE354Project.git,1,Final project for EE354 (Introduction to Digital Circuits) at the University of Southern California. We designed a maze that can be navigated using buttons on the Digilent Nexys3 Board.,,?
@@ -4132,7 +4122,6 @@ ID,Name,Clone URL,Stars,Description,Topics,SUSTech
 4131,musaogural/EE328-Power_Electronics,https://github.com/musaogural/EE328-Power_Electronics.git,0,,,?
 4132,cyli2014/OS_EE328,https://github.com/cyli2014/OS_EE328.git,0,Class projects of Operating System in Shanghai Jiao Tong University.,operating-system;sjtu,?
 4133,CN-AlbertWu96/OS_EE328,https://github.com/CN-AlbertWu96/OS_EE328.git,0,This project is for operating system class of SJTU,,?
-4134,hwy0507/EE328_Speech-Signal-Processing,https://github.com/hwy0507/EE328_Speech-Signal-Processing.git,0,,,yes
 4135,naminablomb/solved-ee328-operating-system,https://github.com/naminablomb/solved-ee328-operating-system.git,0,,,?
 4136,naminablomb/solved-ee328-operating-system-7,https://github.com/naminablomb/solved-ee328-operating-system-7.git,0,,,?
 4137,naminablomb/solved-ee328-operating-system-10,https://github.com/naminablomb/solved-ee328-operating-system-10.git,0,,,?
@@ -4186,7 +4175,6 @@ ID,Name,Clone URL,Stars,Description,Topics,SUSTech
 4185,LihaoZheng-git/EE332-Shadow-Eraser,https://github.com/LihaoZheng-git/EE332-Shadow-Eraser.git,0,EE332 Final Project at Northwestern University: Shadow Eraser,,?
 4186,samfar2002/EE332_Smart_Eraser,https://github.com/samfar2002/EE332_Smart_Eraser.git,0,,,?
 4187,degunth/EE332_project,https://github.com/degunth/EE332_project.git,0,,,?
-4188,hwy0507/EE332_Digital-System-Design,https://github.com/hwy0507/EE332_Digital-System-Design.git,0,,,yes
 4189,Lgx521/EE332_3DGS_Rasterizer,https://github.com/Lgx521/EE332_3DGS_Rasterizer.git,0,,,?
 4190,arya-alvekar/EE332-Digital-Communication,https://github.com/arya-alvekar/EE332-Digital-Communication.git,0,,,?
 4191,TangentH/EE332-Digital-System-Design-Lab,https://github.com/TangentH/EE332-Digital-System-Design-Lab.git,0,Lab material and code for course Digital System Design,,?
@@ -5166,7 +5154,6 @@ ID,Name,Clone URL,Stars,Description,Topics,SUSTech
 5165,Haard-Shah/EE405A_Team5,https://github.com/Haard-Shah/EE405A_Team5.git,0,Team 11 Autonomous Racing,,?
 5166,iJinjin/EE405C_FinalProj_Output,https://github.com/iJinjin/EE405C_FinalProj_Output.git,0,Output examples of a simple LSTM music generation,,?
 5167,shortcakesweets/EE405-AI-empowered-Autonomous-Cars,https://github.com/shortcakesweets/EE405-AI-empowered-Autonomous-Cars.git,0,2022 Fall EE405(A) Electronics Design Lab. <Building AI-empowered Autonomous Cars> lecture by Professor HYNCHUL SHIM.,,?
-5168,hwy0507/EE405_Advanced-Electronic-Science-Experiment-III,https://github.com/hwy0507/EE405_Advanced-Electronic-Science-Experiment-III.git,0,,,yes
 5169,Guri-cccc/EE405A-2023-F1-simulation,https://github.com/Guri-cccc/EE405A-2023-F1-simulation.git,0,EE405A-2023-F1-simulation,,?
 5170,binhboong01/EE405_AI-empowered-Autonomous-Racing-Car,https://github.com/binhboong01/EE405_AI-empowered-Autonomous-Racing-Car.git,0,Won 1st place in the racing competition,,?
 5171,Guri-cccc/EE405A-2022-F1-simulation,https://github.com/Guri-cccc/EE405A-2022-F1-simulation.git,0,KAIST EE405A Electronics Design Lab. F1-simulation,,?

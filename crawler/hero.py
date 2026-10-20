@@ -22,6 +22,8 @@ import sys
 import time
 from urllib.parse import urlencode
 
+from opt_outs import is_opted_out
+
 CSV_PATH = "sustech_ee_repos.csv"
 RAW_PATH = "crawler/sweep_raw.json"
 
@@ -49,19 +51,6 @@ CODES = (
 # Repos we know are SUSTech EE course repos even though they lack any
 # SUSTech keyword in name/description/topics (verified by hand).
 ALLOWLIST = {
-    "hwy0507/ee201-17l_analog-circuits-laboratory",
-    "hwy0507/ee202-17l_digital-circuits-laboratory",
-    "hwy0507/ee206_communication-principles",
-    "hwy0507/ee208_engineering-electromagnetics",
-    "hwy0507/ee211_robotic-perception-and-intelligence",
-    "hwy0507/ee315_data-communications-and-networking",
-    "hwy0507/ee318_advanced-electronic-science-experiment-ii",
-    "hwy0507/ee323_digital-signal-processing",
-    "hwy0507/ee328_speech-signal-processing",
-    "hwy0507/ee332_digital-system-design",
-    "hwy0507/ee340_statistical-learning-for-data-science",
-    "hwy0507/ee351_microprocessors-and-microsystems",
-    "hwy0507/ee405_advanced-electronic-science-experiment-iii",
     "squarezhong/sustech-sdm273-assignments",
 }
 
@@ -211,7 +200,7 @@ def main():
     # Merge with existing rows (carry over repos the sweep missed or that vanished).
     merged = {}
     for full_name, it in all_repos.items():
-        if full_name.lower() in DENYLIST:
+        if is_opted_out(full_name) or full_name.lower() in DENYLIST:
             continue
         if full_name.lower() in ALLOWLIST:
             it["sustech"] = "yes"  # hand-verified, override any stored flag
@@ -219,7 +208,8 @@ def main():
                       "yes" if (keyword_in_fields(it) or full_name in broad_set) else "?")
         merged[norm_url(it["clone_url"])] = it
     for url, row in existing.items():
-        if (row.get("Name") or "").lower() in DENYLIST:
+        full_name = row.get("Name") or ""
+        if is_opted_out(full_name) or full_name.lower() in DENYLIST:
             continue
         merged.setdefault(url, {
             "full_name": row["Name"], "clone_url": row["Clone URL"],
