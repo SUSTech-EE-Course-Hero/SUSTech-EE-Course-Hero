@@ -10,6 +10,8 @@ import json
 import re
 import sys
 
+from opt_outs import is_opted_out
+
 RAW_PATH = "crawler/sweep_raw.json"
 README_PATH = "readme.md"
 
@@ -28,6 +30,9 @@ def main():
         repos = json.load(f)
     with open(README_PATH, encoding="utf-8") as f:
         readme = f.read()
+
+    # Honor removal requests even when reading an older sweep cache.
+    repos = [r for r in repos if not is_opted_out(r["full_name"])]
 
     # Only verified-SUSTech repos unless --include-unverified is passed.
     if "--include-unverified" not in args:
